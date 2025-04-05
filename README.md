@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi there, I'm Abolaji Emmanuel! 👋
+Virtual Assistant | Data Entry | Admin Support
+I’m a trained Virtual Assistant (ALX Program Graduate) helping businesses and entrepreneurs stay organized with clean data, efficient admin tools, and reliable support.
 
-<!--
-**AbolajiEmmanuelolusayo/AbolajiEmmanuelOlusayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I Do
+- Data Entry (Excel, Google Sheets)
+- Contact Lists & Inventory Logs
+- Task Tracking & Scheduling
+- Social Media Calendars
+- Email & File Management
+  
+Tools I Use
+Microsoft Excel | Google Sheets | Trello | Slack | Canva | Google Docs
 
-Here are some ideas to get you started:
+Featured Repos
+- [Data Entry Samples](https://github.com/AbolajiEmmanuelolusayo/Data-Entry-Samples)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Let's Connect!
+LinkedIn- www.linkedin.com/in/abolaji-emmanuel-6260a9267
+Fiverr- http://www.fiverr.com/s/VYpdYL
+Email- abolajiolu489@gmail.com
+
+Looking forward to see you text
+--> Thank you!
