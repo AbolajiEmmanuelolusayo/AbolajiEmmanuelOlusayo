@@ -20,5 +20,5 @@ LinkedIn- www.linkedin.com/in/abolaji-emmanuel-6260a9267
 Fiverr- http://www.fiverr.com/s/VYpdYL
 Email- abolajiolu489@gmail.com
 
-Looking forward to see you text
+Looking forward to see your text
 --> Thank you!
